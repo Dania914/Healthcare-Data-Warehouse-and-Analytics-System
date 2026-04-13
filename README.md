@@ -1,21 +1,11 @@
-<div align="center">
 
-<img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-
-<br/><br/>
-
-```
 ██╗  ██╗███████╗ █████╗ ██╗  ████████╗██╗  ██╗ ██████╗ █████╗ ██████╗ ███████╗
 ██║  ██║██╔════╝██╔══██╗██║  ╚══██╔══╝██║  ██║██╔════╝██╔══██╗██╔══██╗██╔════╝
 ███████║█████╗  ███████║██║     ██║   ███████║██║     ███████║██████╔╝█████╗  
 ██╔══██║██╔══╝  ██╔══██║██║     ██║   ██╔══██║██║     ██╔══██║██╔══██╗██╔══╝  
 ██║  ██║███████╗██║  ██║███████╗██║   ██║  ██║╚██████╗██║  ██║██║  ██║███████╗
 ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-```
+
 
 # 🏥 Healthcare Data Warehouse & Analytics System
 
@@ -70,7 +60,7 @@ This project solves that by building a **centralized, intelligent, and scalable 
 | 🔄 **ETL** | Python (Pandas) |
 | 🤖 **ML Models** | K-Means · Isolation Forest · Random Forest · GAN |
 | 📊 **BI Tool** | Microsoft Power BI |
-| 📁 **Data Volume** | 200 patient records · 14 clinical/financial attributes |
+| 📁 **Data Volume** | 55,500 patient records · 15 attributes (post-cleaning & validation)|
 
 </div>
 
