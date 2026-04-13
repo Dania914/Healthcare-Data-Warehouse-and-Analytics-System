@@ -60,7 +60,7 @@ This project solves that by building a **centralized, intelligent, and scalable 
 | 🔄 **ETL** | Python (Pandas) |
 | 🤖 **ML Models** | K-Means · Isolation Forest · Random Forest · GAN |
 | 📊 **BI Tool** | Microsoft Power BI |
-| 📁 **Data Volume** | 55,500 patient records · 15 attributes (post-cleaning & validation)|
+| 📁 **Data Volume** | 55,500 records · 15 attributes (post-cleaning & validation)|
 
 </div>
 
